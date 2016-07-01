@@ -24,7 +24,8 @@ public class Suma {
         int h;
         //nueva variable
         int y;
-        //pobre
+        //suma
+        //sfdfd
         System.out.println("Ingrese un numero");
         alfa=l.nextInt();
         System.out.println("Ingrese un numer");
