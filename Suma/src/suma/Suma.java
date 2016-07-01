@@ -17,17 +17,17 @@ public class Suma {
         Scanner l= new Scanner(System.in);
 	//Comentario
 
-        int a;
+        int alfa;
         int b;
         int c;
         int d;
      
         System.out.println("Ingrese un numero");
-        a=l.nextInt();
+        alfa=l.nextInt();
         System.out.println("Ingrese un numer");
         b=l.nextInt();
-        c=a+b;
-        d=a-b;
+        c=alfa+b;
+        d=alfa-b;
         System.out.println("La suma es: gmlk"+c);
                 System.out.println("La resta es: "+d);
     }
