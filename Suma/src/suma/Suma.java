@@ -24,7 +24,7 @@ public class Suma {
         int h;
         System.out.println("Ingrese un numero");
         a=l.nextInt();
-        System.out.println("Ingrese un numeroh");
+        System.out.println("Ingrese un numer");
         b=l.nextInt();
         c=a+b;
         d=a-b;
