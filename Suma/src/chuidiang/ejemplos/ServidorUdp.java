@@ -25,6 +25,7 @@ public class ServidorUdp
     {
         new ServidorUdp();
         int a;
+        int B;
     }
 
     /**
