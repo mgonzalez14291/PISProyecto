@@ -24,6 +24,7 @@ public class ServidorUdp
     public static void main(String[] args)
     {
         new ServidorUdp();
+        int a;
     }
 
     /**
