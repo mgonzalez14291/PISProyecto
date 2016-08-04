@@ -14,6 +14,8 @@ public class Servidor extends JFrame {
    private ServerSocket servidor;
    private Socket conexion;
    private int contador = 1;
+   
+   int a;
 
    // configurar GUI
    public Servidor()
